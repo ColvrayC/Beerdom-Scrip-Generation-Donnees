@@ -1,0 +1,12 @@
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\bin\Debug\APIBeerdom.exe.config
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\bin\Debug\APIBeerdom.exe
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\bin\Debug\APIBeerdom.pdb
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\bin\Debug\Newtonsoft.Json.dll
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\bin\Debug\Newtonsoft.Json.xml
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\obj\Debug\APIBeerdom.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\obj\Debug\APIBeerdom.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\obj\Debug\APIBeerdom.csproj.CopyComplete
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\obj\Debug\APIBeerdom.exe
+C:\Users\camil\source\repos\APIBeerdom\APIBeerdom\obj\Debug\APIBeerdom.pdb
